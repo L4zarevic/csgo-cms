@@ -1,0 +1,103 @@
+html{
+    height: 100%;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url(../slike/4.jpg);
+    background-size: cover;
+}
+
+#wrapper{
+    margin: 0;
+    padding: 0;
+    width: 79%;
+    height: 100%;
+    margin: 0 auto;
+    border: 1px solid black;
+    position: relative;
+}
+
+
+header{
+    height: 7%;
+}
+
+
+
+
+#navbar{
+    height: 100%;
+    
+}
+
+#navbar ul{
+    height: 100%;
+}
+
+#navbar ul li{
+    height: 100%;
+}
+
+#navbar ul li a{
+height: 100%;
+  
+}
+/* nav bar header */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+   
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 2vh 7vw;
+    text-decoration: none;
+    height: auto;
+    margin-left: 10px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+    
+    
+}
+
+/* kraj nava */
+
+
+
+
+
+
+/* futer */
+
+footer {
+   position: absolute;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+    margin: 0;
+    height: 5%;
+}
+
+
+
+
+

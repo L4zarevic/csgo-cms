@@ -1,0 +1,88 @@
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>FACEIT - YouTube</title>
+<description>
+FACEIT.com youtube channel for CSGO
+</description>
+<pubDate>Wed, 28 Nov 2018 17:19:29 +0000</pubDate>
+<generator>FetchRSS</generator>
+<link>
+https://www.youtube.com/channel/UCajcK9vEBDLmcLSSYf4WXVA
+</link>
+<atom:link href="http://fetchrss.com/rss/5bfd75a48a93f824688b45685bfd75708a93f80e678b4567.xml" rel="self" type="application/rss+xml"/>
+<image>
+<link>
+https://www.youtube.com/channel/UCajcK9vEBDLmcLSSYf4WXVA
+</link>
+<url>https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico</url>
+<title>FACEIT - YouTube</title>
+</image>
+<item>
+<title>
+Top 10 Plays - DAY 4 - ECS S6 Finals - Feat. tarik, Fallen, Magisk!
+</title>
+<link>https://www.youtube.com/watch?v=Hix2kl-Ujec</link>
+<description>
+<![CDATA[
+<iframe id="player" type="text/html" width="auto" height="140" src="http://www.youtube.com/embed/Hix2kl-Ujec" frameborder="0" allowFullScreen="allowfullscreen"></iframe> <br /> <br /><span style="font-size:12px; color: gray;">(RSS generated with <a href="http://fetchrss.com" target="_blank">FetchRss</a>)</span>
+]]>
+</description>
+<pubDate>Mon, 26 Nov 2018 13:16:28 +0000</pubDate>
+<media:content url="https://i.ytimg.com/vi/Hix2kl-Ujec/mqdefault.jpg" width="100%" height="auto"/>
+<guid>https://www.youtube.com/watch?v=Hix2kl-Ujec</guid>
+</item>
+<item>
+<title>Astralis - ROAD TO FINALS (ECS S6 Finals)</title>
+<link>https://www.youtube.com/watch?v=_-ppFTc-ifk</link>
+<description>
+<![CDATA[
+<iframe id="player" type="text/html" width="auto" height="140" src="http://www.youtube.com/embed/_-ppFTc-ifk" frameborder="0" allowFullScreen="allowfullscreen"></iframe> <br /> <br /><span style="font-size:12px; color: gray;">(RSS generated with <a href="http://fetchrss.com" target="_blank">FetchRss</a>)</span>
+]]>
+</description>
+<pubDate>Mon, 26 Nov 2018 01:29:10 +0000</pubDate>
+<media:content url="https://i.ytimg.com/vi/_-ppFTc-ifk/mqdefault.jpg" width="100%" height="auto"/>
+<guid>https://www.youtube.com/watch?v=_-ppFTc-ifk</guid>
+</item>
+<item>
+<title>MIBR - ROAD TO FINALS (ECS S6 Finals)</title>
+<link>https://www.youtube.com/watch?v=cGbCiBzpMDE</link>
+<description>
+<![CDATA[
+<iframe id="player" type="text/html" width="auto" height="140" src="http://www.youtube.com/embed/cGbCiBzpMDE" frameborder="0" allowFullScreen="allowfullscreen"></iframe> <br /> <br /><span style="font-size:12px; color: gray;">(RSS generated with <a href="http://fetchrss.com" target="_blank">FetchRss</a>)</span>
+]]>
+</description>
+<pubDate>Mon, 26 Nov 2018 01:29:09 +0000</pubDate>
+<media:content url="https://i.ytimg.com/vi/cGbCiBzpMDE/mqdefault.jpg" width="100%" height="auto"/>
+<guid>https://www.youtube.com/watch?v=cGbCiBzpMDE</guid>
+</item>
+<item>
+<title>
+ECS Season 6 Semi Finals Day 3 MIBR vs North Match 3 - Dust 2
+</title>
+<link>https://www.youtube.com/watch?v=6v--35dYM_c</link>
+<description>
+<![CDATA[
+<iframe id="player" type="text/html" width="auto" height="140" src="http://www.youtube.com/embed/6v--35dYM_c" frameborder="0" allowFullScreen="allowfullscreen"></iframe> <br /> <br /><span style="font-size:12px; color: gray;">(RSS generated with <a href="http://fetchrss.com" target="_blank">FetchRss</a>)</span>
+]]>
+</description>
+<pubDate>Mon, 26 Nov 2018 00:19:37 +0000</pubDate>
+<media:content url="https://i.ytimg.com/vi/6v--35dYM_c/mqdefault.jpg" width="100%" height="auto"/>
+<guid>https://www.youtube.com/watch?v=6v--35dYM_c</guid>
+</item>
+<item>
+<title>
+NiP meet John Klingberg of the Dallas Stars! - ECS Season 6 Finals
+</title>
+<link>https://www.youtube.com/watch?v=H9sx4wxRgOk</link>
+<description>
+<![CDATA[
+<iframe id="player" type="text/html" width="auto" height="140" src="http://www.youtube.com/embed/H9sx4wxRgOk" frameborder="0" allowFullScreen="allowfullscreen"></iframe> <br /> <br /><span style="font-size:12px; color: gray;">(RSS generated with <a href="http://fetchrss.com" target="_blank">FetchRss</a>)</span>
+]]>
+</description>
+<pubDate>Sun, 25 Nov 2018 21:32:03 +0000</pubDate>
+<media:content url="https://i.ytimg.com/vi/H9sx4wxRgOk/mqdefault.jpg" width="100%" height="auto"/>
+<guid>https://www.youtube.com/watch?v=H9sx4wxRgOk</guid>
+</item>
+</channel>
+</rss>

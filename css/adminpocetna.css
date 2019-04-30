@@ -1,0 +1,270 @@
+.glavni_meni{  
+    width:70%;
+    height:65%;
+    overflow: scroll;
+    float:left;
+       
+}
+
+.desni_meni{
+    height: 65%;
+    float:left;
+    width: 30%;
+    background-color: #83afaf;
+}
+
+/* stil za rss feed */
+
+#rss{
+    width: 100%;
+    height: 100%;
+	overflow:auto;
+  
+}
+
+.rss_vijest{
+    border: 1px solid black;
+}
+
+.rss_naslov{
+    color:white;
+}
+
+
+
+/* stil za rss feed */
+
+.baner{
+  
+    height: 20%;
+    background-image: url(../slike/b2.png);
+    width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 0px;
+  
+}
+
+
+html{
+    height: 100%;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url(../slike/4.jpg);
+    background-size: cover;
+}
+
+#wrapper{
+    margin: 0;
+    padding: 0;
+    width: 79%;
+    height: 100%;
+    margin: 0 auto;
+    border: 1px solid black;
+    position: relative;
+}
+
+
+header{
+    height: 7%;
+}
+
+
+
+
+#navbar{
+    height: 100%;
+    
+}
+
+#navbar ul{
+    height: 100%;
+}
+
+#navbar ul li{
+    height: 100%;
+}
+
+#navbar ul li a{
+height: 100%;
+  
+}
+/* nav bar header */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+   
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 2vh 7vw;
+    text-decoration: none;
+    height: auto;
+    margin-left: 10px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+    
+    
+}
+
+/* kraj nava */
+
+
+
+
+
+
+/* futer */
+
+footer {
+   position: absolute;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+    margin: 0;
+    height: 5%;
+}
+
+
+
+
+
+.Vijest{
+       margin-left: 6%;
+    border: 1px solid black;
+    clear: both;
+}
+
+
+.Naslov{
+                
+	            background-color:#202020;
+                height:auto;
+				width:50%;
+                color:white;
+                text-align:center;
+                padding:5px;
+				font-family: 'Montserrat', sans-serif;
+                font-size: 18px;
+                font-weight: bold;
+                border:1px solid black;
+                margin-top:1%;
+			}
+			.Sadrzaj 
+			{
+				background-color:#F0F0F0;
+				height: 100px;
+	            width:50%;
+                padding:5px;
+                border:1px solid black;
+				border-bottom: 0px;
+				 /* margin-left: 6%; */
+                white-space: nowrap; 
+                overflow: hidden;
+                text-overflow: ellipsis; 
+                font-family: sans-serif;
+    
+                
+			}
+			.Autor
+			{
+			    background-color:black;
+				width:50%;
+                color:white;
+                text-align:left;
+                padding:5px;
+                border:1px solid black;
+                /* margin-left: 6%; */
+                margin-bottom: 1%;
+			}
+			.Slika
+			{
+				background-color:#F0F0F0;
+	            width:50%;
+				padding:5px;
+				border:1px solid black;
+				border-bottom: 0px;
+				border-top: 0px;
+				 /* margin-left: 6%; */
+                background-size: cover;
+
+			}
+			.JumpLink
+			{
+				background-color:#F0F0F0;
+	              width:50%;
+				padding:5px;
+				border:1px solid black;
+				border-top: 0px;
+				 /* margin-left: 6%; */
+			}
+
+.btn{
+    display: inline-block;
+    margin-bottom: 0;
+   /* margin-left: 6%; */
+ 
+    
+    
+}
+
+
+.btn a{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+     color: white;
+      margin-bottom: 3px;
+    background-color: red;
+    border-radius: 4px;
+      padding: 5px 30px;
+    border: 1px solid black;
+   
+}
+
+.add{
+    display: inline-block;
+    float: right;
+    clear: both;
+     background-color: red;
+    border-radius: 4px;
+     width:200px;
+     padding: 5px 30px;
+    margin: 5px;
+     text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+     color: white;
+    text-align: center;
+  
+}
+
+
+
+
+
+.clear{
+    clear:both;
+}
